@@ -89,7 +89,7 @@ Graph Construction -
 
 1. Treat all 125x125 pixels as nodes of the graph.
 2. Keep only the nodes having non-zero absolute sum of channel values. This helps convert the image to a point-cloud representation.
-3. Now, for each node take the nearest k(=6) neigbours as the edge indices.
+3. Now, for each node take the nearest k(=8) neigbours as the edge indices.
 4. The node features are set as the channel values hence we get 3 features per node.
 
 #### Architecture-1
