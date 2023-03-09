@@ -137,22 +137,22 @@ Graph Construction -
   <img src="task2/roc-curve.png" width="50%" height="50%">
 </p>
 
-### Task 3
+### Specific Task
 
 #### Architecture-1
-- Testing Accuracy: 
-- F1 score: 
-- ROC-AUC score: 
-- 
+- Testing Accuracy 0.693
+- F1 score: 0.654
+- ROC-AUC: 0.765
+ 
 #### Architecture-2
-- Testing Accuracy: 
-- F1 score: 
-- ROC-AUC score: 
+- Testing Accuracy 0.696
+- F1 score: 0.730
+- ROC-AUC: 0.771 
 
 #### ROC Curve
 
 <p align="center">
-  <img src="specific_task/roc_curve.png" width="50%" height="50%">
+  <img src="specific_task/roc-curve.png" width="50%" height="50%">
 </p>
 
 
